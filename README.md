@@ -1,8 +1,8 @@
-# fpga-source
-FPGA Private source for the XTRX project
+# XTRX SDR FPGA image source code
+This repository contains the source code of the XTRX SDR FPGA image.
 
-# build
-Run top/build.sh to make image
+# How to build
+Run `top/build.sh` to build the FPGA image
 
 # License
 Most important provisions of the license for this source code:
