@@ -5,7 +5,7 @@ This repository contains the source code of the XTRX SDR FPGA image.
 Run `top/build.sh` to build the FPGA image
 
 # License
-Most important provisions of the license for this source code:
+The license is derived from the Xilinx IP Core Evaluation license with changes to allow modification of the source code. Most important provisions of the license for this source code:
 1. The code is released under an evaluation license for the use inside your organization only.
 2. The duration of the license is 120 day during which time we plan to release the code under a proper open-source license.
 3. You're allowed to modify the source code, provided that you share the modifications back to us.
