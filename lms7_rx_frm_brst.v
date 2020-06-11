@@ -1,4 +1,6 @@
 //
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
 //
 // Register format
 // 0: [1:0] Stop/8bit/12bit/16bit

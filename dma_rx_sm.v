@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module dma_rx_sm #(
     parameter BUFFER_SIZE_RX_BITS = 16,
     parameter BUFFER_BURST_BITS = 5,

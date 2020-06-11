@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module pcie_req_to_ram #(
     parameter LOW_ADDDR_BITS = 14
 )(

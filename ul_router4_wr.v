@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module ul_router4_wr #(
   parameter ADDR_WIDTH = 10,
   parameter DATA_WIDTH = 32

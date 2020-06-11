@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module ul_uart_rx #(
     parameter BITS_DATA = 8,
     parameter UART_SPEED = 9600,

@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module xlnx_lms7_lml_phy #(
   parameter IN_MODE = 1,   // 0 - off, 1 - slow, 2 - fast
   parameter OUT_MODE = 2,  // 0 - off, 1 - slow, 2 - fast

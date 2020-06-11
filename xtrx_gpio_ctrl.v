@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module xtrx_gpio_ctrl  #(
     parameter GPIO_WIDTH = 12,
     parameter GPIO_DEF_FUNCTIONS = 0

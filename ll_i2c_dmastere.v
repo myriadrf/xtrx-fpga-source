@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module ll_i2c_dmastere #(
     parameter I2C_SPEED = 100000,
     parameter BUS_SPEED = 62500000,

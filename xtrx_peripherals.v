@@ -1,6 +1,8 @@
-// All
 //
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
 //
+
 module xtrx_peripherals #(
   parameter UL_BUS_LEN = 10,
   parameter BUFFER_BUS_ADDRESS = 32,

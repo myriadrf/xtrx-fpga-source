@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module cross_counter #(
    parameter WIDTH = 8,
    parameter GRAY_BITS = WIDTH,
