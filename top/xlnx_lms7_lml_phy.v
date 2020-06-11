@@ -169,7 +169,7 @@ generate
         .IDELAY_VALUE(0),
         .HIGH_PERFORMANCE_MODE("TRUE"),
         .SIGNAL_PATTERN("DATA"),
-        .REFCLK_FREQUENCY(200),
+        .REFCLK_FREQUENCY(400),
         .CINVCTRL_SEL("FALSE"),
         .PIPE_SEL("FALSE")
       ) idelay_rx (
@@ -194,7 +194,7 @@ generate
       .IDELAY_VALUE(0),
       .HIGH_PERFORMANCE_MODE("TRUE"),
       .SIGNAL_PATTERN("DATA"),
-      .REFCLK_FREQUENCY(200),
+      .REFCLK_FREQUENCY(400),
       .CINVCTRL_SEL("FALSE"),
       .PIPE_SEL("FALSE")
     ) idelay_rx (
