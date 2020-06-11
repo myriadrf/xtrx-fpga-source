@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module fe_tx_chain_brst #(
     parameter LOW_ADDDR_BITS = 13,
     parameter TS_BITS        = 30

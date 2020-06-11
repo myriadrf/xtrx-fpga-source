@@ -1,8 +1,7 @@
 ##############################################################
-# This file contains confidential and proprietary information
-# of Fairwaves, Inc. and is protected under U.S. and
-# international copyright and other intellectual property
-# laws.
+## Copyright (c) 2016-2020 Fairwaves, Inc.
+## SPDX-License-Identifier: CERN-OHL-W-2.0
+##############################################################
 
 set_property BITSTREAM.CONFIG.UNUSEDPIN Pulldown [current_design]
 set_property BITSTREAM.CONFIG.SPI_BUSWIDTH 4 [current_design]

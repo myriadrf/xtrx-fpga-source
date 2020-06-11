@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module ul_uart_smartcard #(
     parameter BUS_SPEED     = 62500000,
     parameter SIM_SPEED     =  4000000,

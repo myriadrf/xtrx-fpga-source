@@ -1,4 +1,10 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
 // Half duplex UART 
+//
+
 module uart_smartcard #(
     parameter CLK_DIV = 372,
     parameter BITS_SAMPLE = 3,

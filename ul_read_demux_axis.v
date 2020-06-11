@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module ul_read_demux_axis #(
     parameter DATA_WIDTH = 32,
     parameter NBITS      = 4

@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 // i2c dual bus master multiple device controller
 
 // TX[31]    - RD_VALID 0 - only WR, 1 - RD cycle after WR
