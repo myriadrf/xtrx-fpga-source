@@ -1,5 +1,6 @@
 //
-// Sergey Kostanbaev 2016-2019
+// Copyright (c) 2016-2019 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
 //
 // PCIe to master UL
 //

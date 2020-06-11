@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module dma_tx_sm #(
     parameter TS_BITS             = 30,
     parameter BUFFER_SIZE_TX_BITS = 17,

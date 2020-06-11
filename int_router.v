@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module int_router #(
     parameter COUNT = 16,
     parameter DELAY_CYCLE = 0

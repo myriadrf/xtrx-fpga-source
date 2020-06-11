@@ -3,8 +3,9 @@
 //
 // MODULUS4 CLZ ALGO
 //
-// Copyright (C) 2016-2019
-// Sergey.Kostanbaev@fairwaves.co
+// Copyright (c) 2016-2019 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
 ///////////////////////////////////////////////////////////////////////////////
 
 module clz #(

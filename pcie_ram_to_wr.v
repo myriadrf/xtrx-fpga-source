@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module pcie_ram_to_wr #(
     parameter BUFFER_SIZE_BITS = 17,
     parameter BUFFER_BUS_ADDRESS = 32,

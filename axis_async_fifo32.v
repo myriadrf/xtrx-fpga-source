@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
+
 module axis_async_fifo32 #(
   parameter WIDTH = 12,
   parameter DEEP_BITS = 5,

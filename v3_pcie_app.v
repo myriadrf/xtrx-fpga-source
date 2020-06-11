@@ -1,4 +1,9 @@
+//
+// Copyright (c) 2016-2020 Fairwaves, Inc.
+// SPDX-License-Identifier: CERN-OHL-W-2.0
+//
 // Application module without Xilinx specific cores
+//
 
 module v3_pcie_app #(
   parameter UL_BUS_SPEED     = 32'd125_000_000,
