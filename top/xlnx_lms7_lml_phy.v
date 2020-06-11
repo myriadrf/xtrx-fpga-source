@@ -104,7 +104,7 @@ generate
     IBUF_INTERMDISABLE phy_data_buf_i(
       .I(lms_io_diq[j]),
       .O(phy_lml_data_in[j]),
-      .IBUFDISABLE(phy_lml_inportdis),
+      //.IBUFDISABLE(phy_lml_inportdis),
       .INTERMDISABLE(phy_lml_termdis)
     );
     end
@@ -121,7 +121,7 @@ if (IN_MODE != 0) begin
   IBUF_INTERMDISABLE phy_iqsel_buf_i(
     .I(lms_io_iqsel),
     .O(phy_lml_iqsel_in),
-    .IBUFDISABLE(phy_lml_inportdis),
+    //.IBUFDISABLE(phy_lml_inportdis),
     .INTERMDISABLE(phy_lml_termdis)
   );
 end
