@@ -136,7 +136,7 @@ wire user_clk;
 
 wire [15:0] xtrx_ctrl_lines;
 
-`include "../xtrxll_regs.vh"
+`include "xtrxll_regs.vh"
 //wire xtrx_enbpvio_n          = xtrx_ctrl_lines[GP_PORT_XTRX_ENBPVIO_N];
 //wire xtrx_enbp3v3_n          = xtrx_ctrl_lines[GP_PORT_XTRX_ENBP3V3_N];
 wire xtrx_ext_clk            = xtrx_ctrl_lines[GP_PORT_XTRX_EXT_CLK];
