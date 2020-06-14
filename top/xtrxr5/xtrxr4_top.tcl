@@ -3,7 +3,7 @@ set root_dir [file normalize "$origin_dir/../.."]
 puts "origin_dir = $origin_dir"
 puts "repo root = $root_dir"
 
-create_project xtrxr5 ./xtrxr5
+create_project xtrxr5 $origin_dir/xtrxr5
 
 set proj_dir [get_property directory [current_project]]
 

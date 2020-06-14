@@ -4,6 +4,7 @@ This repository contains the source code of the XTRX SDR FPGA image.
 # How to build
 source /opt/Xilinx/Vivado/2019.1/settings64.sh
 Run `top/xtrxr5/build.sh` to build the FPGA image
+top/xtrxr5/xtrxr5/xtrxr5.runs/impl_1/xtrxr4_top.bit
 
 # License
 RTL IP sources are released under the CERN Open Hardware Licence Version 2 - Weakly Reciprocal
