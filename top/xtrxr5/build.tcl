@@ -1,4 +1,6 @@
-open_project xtrxr5/xtrxr5.xpr
+set origin_dir [file dirname [info script]]
+
+open_project $origin_dir/xtrxr5/xtrxr5.xpr
 
 #reset_run synth_1
 #reset_run blk_mem_gen_nrx_synth_1
