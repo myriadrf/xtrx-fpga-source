@@ -21,6 +21,17 @@ If successful, the output bitstream will be available in the following path:
 top/xtrxr5/xtrxr5/xtrxr5.runs/impl_1/xtrxr4_top.bit
 ```
 
+# Programming with OpenOCD and JTAGHS2 cable
+
+Inside the `openocd` directory, there are scripts to allow programming with OpenOCD
+and a [Digilent JTAG HS2 cable](https://digilent.com/shop/jtag-hs2-programming-cable/)
+
+After the bistream is built, one may simply run:
+```
+./prog.sh
+```
+to flash the bitstream to the xtrx device. 
+
 # License
 RTL IP sources are released under the CERN Open Hardware Licence Version 2 - Weakly Reciprocal
 Please refer to the LICENSE file of the source code for the full text of the license.
